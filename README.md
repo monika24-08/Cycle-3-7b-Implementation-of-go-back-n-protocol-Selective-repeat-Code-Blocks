@@ -28,10 +28,10 @@ Add: netproto and pthread
 
 💻 Program
 
-#include <stdio.h>
 
-void main() {
     
+    #include <stdio.h>
+    void main() {
     int i, j, n;
     printf("GO BACK N ARQ\n");
     printf("Enter number of frames: ");
